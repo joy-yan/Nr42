@@ -1,4 +1,4 @@
-baseurl = "https://joy-yan.github.io"
+baseurl = "https://joy-yan.github.io/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -17,7 +17,7 @@ paginate = 5
 	
 	analytics = "code-here"
 
-	email = "alexurquhart@gmail.com"
+	email = "joy.yan2016@gmail.com"
 
 	profilepic = "img/profile.jpg"
 	
@@ -30,8 +30,8 @@ paginate = 5
 	faicon = "github"
 	url = "https://github.com/joy-yan"
 	[[params.socialbuttons]]
-	faicon = "twitter"
-	url = "https://twitter.com/alexanderurq"
+	faicon = "youtube"
+	url = "https://youtube.com/puremind88"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
 	url = "https://linkedin.com"
