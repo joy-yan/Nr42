@@ -1,4 +1,4 @@
-baseurl = "http://joy-yan.github.io"
+baseurl = "https://joy-yan.github.io"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
