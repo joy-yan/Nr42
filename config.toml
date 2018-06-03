@@ -2,7 +2,7 @@ baseurl = "https://joy-yan.github.io/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Magic Number 42"
 disqusShortname = "shortcode-here"
 paginate = 5
 
@@ -22,7 +22,7 @@ paginate = 5
 	profilepic = "img/profile.jpg"
 	
 	title = "Joy Yan"
-	subtitle = "MY HUGO BLOG"
+	subtitle = "Engineer - Navigator - Creator"
 
 	# Social buttons for sidebar
 	# Each of these are optional
@@ -34,19 +34,23 @@ paginate = 5
 	url = "https://youtube.com/puremind88"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
-	url = "https://linkedin.com"
+	url = "https://linkedin.com/in/joyyan"
 	[[params.socialbuttons]]
 	faicon = "google-plus"
 	url = "https://plus.google.com/+YourID"
 
 	[[params.navlinks]]
 	name = "About"
-	url = "about"
+	url = "about/"
 	
 	[[params.navlinks]]
 	name = "Blog"
-	url = ""
+	url = "blogs/"
 	
 	[[params.navlinks]]
 	name = "Tutorials"
-	url = "tutorial/"
+	url = "tutorials/"
+	
+	[[params.navlinks]]
+	name = "Portfolio"
+	url = "portfolio/"
