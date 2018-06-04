@@ -23,19 +23,22 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "profile.jpg"
     subtitle = "Hi! I'm Joy, an NLP Engineer, Game Designer, and Blogger."
-    hero_right = ["**Life Mottos**",
-                  "* Let the love of learning rule humanity.",
+    hero_right = ["<H1>Hacking Number 42</H1>",
+                  "<p>Answer to the Ultimate Question of Life<p>",
+                  "**Life Mottos**",
                   "* Progress and Service.",
+                  "* Let the love of learning rule humanity.",
                   "* Head in the Clouds and Feet on the Ground.",
                   "**Currently**",
-                  "* Implementing neo-huamnity application with AI, ARCore, ARKit, Android and iOS technologies",
-                  "* Pursung Master of Computer Science at Georgia Tech, Concentration: Machine Learning",
-                  "* Self studying complex system modeling and product designing.",
+                  "* Implementing neo-huamnity application with AI, ARCore, ARKit, Android and iOS technologies.",
+                  "* Pursung Master of Computer Science at Georgia Tech, Concentration: Machine Learning.",
+                  "* Self studying complex systems and product design.",
+                  "* Translating Tao Te Ching to English.",
                   "**Previously**",
                   "* BS. in Computer Science with honor at San Jose State University.",
                   "* NLP/ML Intern in Healthcare Startup in the Silicon Valley.",
                   "* PLM Application Developer at HD Solutions Germany.",
-                  "* Research Intern at IBM Germany."
+                  "* Research Intern at IBM Germany in NLP."
 
     ]
     resume = "JoyResume.pdf"
