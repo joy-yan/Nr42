@@ -28,40 +28,40 @@ draft: false
 
 # Context
 
-![](//localhost:1313/tedx/img/projecti7.jpg)
+![](https://joy-yan.github.io/tedx/img/projecti7.jpg)
 
 The Ateneo Junior Marketing Association always outsourced their website development to different organizations in the university. This year, they chose User Experience Society, the organization I founded to create a strong digital presence for their flagship event. TEDxADMU is acclaimed among the youth and is marked by the many up and coming trailblazers in the Philippine community.
 
 # The Challenge
 
-![](//localhost:1313/tedx/img/whycoordinate.jpg)
+![](https://joy-yan.github.io/tedx/img/whycoordinate.jpg)
 
 TEDxADMU always faced the same problems every year. How can we elevate the number of applications we receive? How do we communicate a credible and powerful presence online? How will our web copywriting, social media marketing, and word-of-mouth efforts convey the TEDxADMU brand as a cohesive whole? What platform will be the best to manage applications? How can we tell a compelling story through digital? As Consultancy Director of UX Society, I helped the organization answer these questions.
 
 # Contextual Inquiry and Discovery
 
-![](//localhost:1313/tedx/img/sketchted.jpg)
+![](https://joy-yan.github.io/tedx/img/sketchted.jpg)
 
 After doing interviews with the main stakeholders of the project. I was able to do rough sketches of the product. The meetings were all about establishing trust and rapport with the client first and making sure I set the strategy for the project.
 
 **Moodboard**
-![](//localhost:1313/tedx/img/moodboard.jpg)
+![](https://joy-yan.github.io/tedx/img/moodboard.jpg)
 
 I asked the team I'm working with to come up with a moodboard to establish the visual language we want to use for the project.
-            
+
 # Design Decisions
 
 Since the TEDxADMU team has yet to finalize the complete details of the 2017 event, I recommended a three-phase release for the project.
 
 The first release would be a teaser site where potential attendees learn about what the event is about, its history, and its talk/speaker playlist. Most importantly, I suggested that the design solution should focus on making it easy to receive applications. I decided it was best to go with a Typeform linked to the "Apply" buttons because of the product's excellent form input experience. The team was also familiar with the platform and it will make it easier for them to process applications.
 
-![](//localhost:1313/tedx/img/phases.png)
+![](https://joy-yan.github.io/tedx/img/phases.png)
 
 The second phase will focus on hyping up the event even more. Showcasing the speakers will be the core of the website experience. The third phase will be done post-event, where the centerpiece of the experience is about helping the attendees and non-attendees relive the experience. These phases have yet to be done.
 
 # Hi-Fidelity Mockups
 
-![](//localhost:1313/tedx/img/cta.png)
+![](https://joy-yan.github.io/tedx/img/cta.png)
 
 **Consistent Call-to-Actions**
 <br>The problem we wanted to solve was making sure people apply. This design delivers the best impact to solve that problem. Providing the context through photos and good copywriting was the only challenge left, since it's a landing page.
@@ -72,7 +72,7 @@ I coded the website in a duration of two days with my developer partner, Royce C
 
 # Analytics
 
-![](//localhost:1313/tedx/img/events.png)
+![](https://joy-yan.github.io/tedx/img/events.png)
 
 After crunching the data collected for the past two months that the site went live, the most recent statistic I got was a 66.8% conversion rate. I used the number of events and the pageviews to come up with the rate. I asked helped from my mentor, Mica from Nuworks, to figure out how to track click events and how to actually analyze the data.
 
@@ -96,7 +96,7 @@ Doing a usability test using the think-aloud protocol with one user revealed som
 
 # Next Steps
 
-![](//localhost:1313/tedx/img/nextstepsted.jpg)
+![](https://joy-yan.github.io/tedx/img/nextstepsted.jpg)
 
 **Address Usability Issues from Testing**
 <br>There were a lot of issues that came up during the user test I did using the think-aloud protocol. I'm excited to work on the feedback so we can iterate on the current product.
