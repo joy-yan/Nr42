@@ -1,0 +1,57 @@
+baseurl = "https://joy-yan.github.io/"
+theme = "hugo-geo"
+relativeURLs = false
+languageCode = "en-us"
+title = "Magic Number 42"
+disqusShortname = "shortcode-here"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+	category = "categories"
+
+[params]
+	showglobe = true
+
+	favicon = "favicon.ico"
+
+	analytics = "code-here"
+
+	email = "joy.yan2016@gmail.com"
+
+	profilepic = "img/profile.jpg"
+
+	title = "Joy Yan"
+	subtitle = "Engineer - Navigator - Creator"
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/joy-yan"
+	[[params.socialbuttons]]
+	# faicon = "youtube"
+	# url = "https://youtube.com/puremind88"
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://linkedin.com/in/joyyan"
+	[[params.socialbuttons]]
+	faicon = "wechat"
+	url = "img/wechatQR.jpeg"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about/"
+
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+
+	[[params.navlinks]]
+	name = "Tutorials"
+	url = "tutorials/"
+
+	[[params.navlinks]]
+	name = "Portfolio"
+	url = "portfolio/"

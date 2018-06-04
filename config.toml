@@ -1,57 +1,55 @@
-baseurl = "https://joy-yan.github.io/"
-theme = "hugo-geo"
-relativeURLs = false
+baseURL = "joy-yan.github.io/"
 languageCode = "en-us"
-title = "Magic Number 42"
-disqusShortname = "shortcode-here"
-paginate = 5
-
-[taxonomies]
-	tag = "tags"
-	tutorial = "tutorials"
-	category = "categories"
+title = "Hacking Number 42"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-	showglobe = true
+    theme_color = "#574CDD"
+    description = "Portfolio of Alexis Collado, UX Designer"
+    description_photo = "img/profile.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
 
-	favicon = "favicon.ico"
+    email = "joy.yan2016@gmail.com"
+    wechat = "img/wechatQR.jpeg"
+    linkedin = "https://www.linkedin.com/in/joyyan"
+    github = "joy-yan"
 
-	analytics = "code-here"
+[params.nav]
+    enable = true
 
-	email = "joy.yan2016@gmail.com"
+[params.hero]
+    enable = true
+    avatar = "profile.jpg"
+    subtitle = "Hi! I'm Joy, an NLP Engineer, Game Designer, and Blogger."
+    hero_right = ["**Life Mottos**",
+                  "* Let the love of learning rule humanity.",
+                  "* Progress and Service.",
+                  "* Head in the Clouds and Feet on the Ground.",
+                  "**Currently**",
+                  "* Implementing neo-huamnity application with AI, ARCore, ARKit, Android and iOS technologies",
+                  "* Pursung Master of Computer Science at Georgia Tech, Concentration: Machine Learning",
+                  "* Self studying complex system modeling and product designing.",
+                  "**Previously**",
+                  "* BS. in Computer Science with honor at San Jose State University.",
+                  "* NLP/ML Intern in Healthcare Startup in the Silicon Valley.",
+                  "* PLM Application Developer at HD Solutions Germany.",
+                  "* Research Intern at IBM Germany."
 
-	profilepic = "img/profile.jpg"
+    ]
+    resume = "JoyResume.pdf"
 
-	title = "Joy Yan"
-	subtitle = "Engineer - Navigator - Creator"
 
-	# Social buttons for sidebar
-	# Each of these are optional
-	[[params.socialbuttons]]
-	faicon = "github"
-	url = "https://github.com/joy-yan"
-	[[params.socialbuttons]]
-	# faicon = "youtube"
-	# url = "https://youtube.com/puremind88"
-	[[params.socialbuttons]]
-	faicon = "linkedin"
-	url = "https://linkedin.com/in/joyyan"
-	[[params.socialbuttons]]
-	faicon = "wechat"
-	url = "img/wechatQR.jpeg"
+[params.process]
+    enable = true
+    title = "My Process"
+    subtitle = "Design Thinking + System Thinking + Agile Management"
 
-	[[params.navlinks]]
-	name = "About"
-	url = "about/"
+[params.case_studies]
+    enable = true
+    title = "Portfolio"
+    subtitle = "Selected Works"
 
-	[[params.navlinks]]
-	name = "Blog"
-	url = ""
-
-	[[params.navlinks]]
-	name = "Tutorials"
-	url = "tutorials/"
-
-	[[params.navlinks]]
-	name = "Portfolio"
-	url = "portfolio/"
+[params.footer]
+    enable = true
