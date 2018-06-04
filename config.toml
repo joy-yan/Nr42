@@ -9,18 +9,19 @@ paginate = 5
 [taxonomies]
 	tag = "tags"
 	tutorial = "tutorials"
+	category = "categories"
 
 [params]
 	showglobe = true
 
 	favicon = "favicon.ico"
-	
+
 	analytics = "code-here"
 
 	email = "joy.yan2016@gmail.com"
 
 	profilepic = "img/profile.jpg"
-	
+
 	title = "Joy Yan"
 	subtitle = "Engineer - Navigator - Creator"
 
@@ -30,27 +31,27 @@ paginate = 5
 	faicon = "github"
 	url = "https://github.com/joy-yan"
 	[[params.socialbuttons]]
-	faicon = "youtube"
-	url = "https://youtube.com/puremind88"
+	# faicon = "youtube"
+	# url = "https://youtube.com/puremind88"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
 	url = "https://linkedin.com/in/joyyan"
 	[[params.socialbuttons]]
-	faicon = "google-plus"
-	url = "https://plus.google.com/+YourID"
+	faicon = "wechat"
+	url = "img/wechatQR.jpeg"
 
 	[[params.navlinks]]
 	name = "About"
 	url = "about/"
-	
+
 	[[params.navlinks]]
 	name = "Blog"
-	url = "blogs/"
-	
+	url = ""
+
 	[[params.navlinks]]
 	name = "Tutorials"
 	url = "tutorials/"
-	
+
 	[[params.navlinks]]
 	name = "Portfolio"
 	url = "portfolio/"
